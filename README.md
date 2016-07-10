@@ -107,10 +107,11 @@ kitchen converge website
 
 * use the `chef generate` command to generate a recipe called user
 * add https://gist.github.com/smurawski/6c5d2e5fcd3fff8c59c770da0b164ec2#file-user-rb
+* add a user "suite" to your .kitchen.yml
 * from your shell
 
 ```
-kitchen converge website
+kitchen converge user
 ```
 
 ### How might we ChefSpec with those helpers?
