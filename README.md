@@ -56,7 +56,7 @@ chef exec rspec ./spec/unit
 mkdir integration/website/pester
 ```
 
-* open ./test/integration/pester/website.Tests.ps1 in your editor
+* open ./test/integration/website/pester/website.Tests.ps1 in your editor
 * edit to look like https://gist.github.com/smurawski/ed173ee590f3c53581d948ab1c95a2c4#file-website-tests-ps1
 
 * from your shell
