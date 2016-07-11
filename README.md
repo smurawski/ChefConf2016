@@ -25,12 +25,12 @@ chef gem install kitchen-pester
 * from your shell
 
 ```
-chef generate recipe ../dsc_workshop --copyright 'Chef Software' --license apache2
+chef generate recipe ../dsc_workshop website --copyright 'Chef Software' --license apache2
 ```
 
 #### Write Our First Test
 
-* open ./spec/unit/recipe/website_spec.rb in your editor
+* open ./spec/unit/recipes/website_spec.rb in your editor
 * edit to look like https://gist.github.com/smurawski/ed173ee590f3c53581d948ab1c95a2c4#file-website_spec-rb
 * from your shell
 
