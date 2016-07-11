@@ -16,6 +16,10 @@ cd ./dsc_workshop
 * open .kitchen.yml in your editor
 * edit to look like https://gist.github.com/smurawski/ed173ee590f3c53581d948ab1c95a2c4#file-kitchen-yml
 
+```
+chef gem install kitchen-pester
+```
+
 ### Maybe a TDD approach
 
 * from your shell
