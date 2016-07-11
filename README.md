@@ -53,7 +53,7 @@ chef exec rspec ./spec/unit
 * from your shell
 
 ```
-mkdir integration/website/pester
+mkdir ./test/integration/website/pester
 ```
 
 * open ./test/integration/website/pester/website.Tests.ps1 in your editor
